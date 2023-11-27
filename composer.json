@@ -1,0 +1,10 @@
+{
+  "name": "vendor_name/app",
+  "description": "php_project",
+  "autoload": {
+    "psr-4": {
+      "App\\":"app//"
+
+    }
+  }
+}
